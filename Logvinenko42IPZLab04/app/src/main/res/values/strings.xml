@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Logvineko42ipzlab4</string>
+    <string name="textName1">Імя</string>
+    <string name="textName2">Прізвище</string>
+    <string name="button">Обрати дисципліну</string>
+
+    <string name="textKurs">Що б ти хотів вивчати в курс?</string>
+    <string name="textLec">Лекції</string>
+    <string name="textPra"> Практичні</string>
+
+    <string name="textProg">Програміст</string>
+    <string name="textInform">Інформатик</string>
+
+    <string name="textLab">Лабораторні</string>
+    <string name="textChoos">Обери, мову</string>
+    <string name="buttonMes">Надіслати</string>
+
+    <string-array name="data">
+        <item>JavaScript</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>C#</item>
+    </string-array>
+</resources>
